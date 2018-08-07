@@ -1,0 +1,53 @@
+* {
+  font-family: 'Roboto', sans-serif;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    color: #314f8d;
+}
+
+body {
+  margin: 0px;
+  background: #ecf0f7;
+  color: #000;
+}
+
+.category-title {
+  font-size: 0.8rem;
+  color: rgba(0,0,0,0.3);
+  font-weight: 700;
+  text-transform: uppercase;
+  padding-left: 20px !important;
+}
+
+.side-nav .collapsible-header:hover {
+  background: #f8f8f8 !important;
+}
+
+.side-nav .collapsible-header.active {
+  font-weight: 600;
+}
+
+.side-nav .collapsible-body a {
+  background-color: transparent;
+  padding-left: 30px;
+}
+
+.side-nav .collapsible li a:hover {
+  background: #f8f8f8;
+}
+
+.bsb-brand-guide__btn {
+  color: #000 !important;
+  box-shadow: none !important;
+  background-color: transparent;
+  font-weight: bold;
+}
+
+.bsb-brand-guide__btn:hover {
+  background: #f8f8f8 !important;
+}
+
+.navbar.brand-blue {
+    background: #314f8d;
+}
