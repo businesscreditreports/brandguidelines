@@ -8,7 +8,6 @@ h1,h2,h3,h4,h5,h6 {
 
 body {
   margin: 0px;
-  background: #ecf0f7;
   color: #000;
 }
 
@@ -64,4 +63,24 @@ body {
 
 .grey-border-top {
     border-top: 1px solid #D9D9D9;
+}
+
+.blue {
+    background-color: #314f8d !important;
+}
+
+.green {
+    background-color: #24a926 !important;
+}
+
+.lightblue {
+    background-color: #f3f5f7;
+}
+
+.red {
+    background-color: #D3423A !important;
+}
+
+.orange {
+    background-color: #ef6517 !important;
 }
